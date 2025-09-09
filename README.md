@@ -14,7 +14,7 @@ This project classifies news headlines into categories (e.g., Sports, Politics, 
 ## 🚀 How to Run
 1. Clone repo
 2. Install requirements: `pip install -r requirements.txt`
-3. Run notebook in `/notebooks/news_classifier.ipynb`
+3. Run notebook in `/notebooks/trainingnotebook.ipynb`
 
 ## 📊 Results
 - Accuracy: 87% on test set
